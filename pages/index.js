@@ -11,8 +11,17 @@ export default function Home() {
       </Head>
 
       <main>
-        <Header title="Welcome to my app!" />
+        <Header title="Welcome to Santosh Khelge's landing page :)!" />
         <p className="description">
+          Get started by editing <code>pages/index.js</code>
+        </p>
+        <p className="LinkedIn">
+          Get started by editing <code>pages/index.js</code>
+        </p>
+        <p className="Twitter / X">
+          Get started by editing <code>pages/index.js</code>
+        </p>
+        <p className="Medium">
           Get started by editing <code>pages/index.js</code>
         </p>
       </main>
